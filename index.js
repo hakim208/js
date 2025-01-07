@@ -13,5 +13,13 @@
 // var a = 22
 // console.log(a/10);
 
-var a = 3456
-console.log(a/10%10);
+// var a = 3456
+// console.log(a/10%10);
+
+var a = 811
+var cnt = 0
+for(var i=a; i>0; i/=10)
+{
+   cnt+=i%10
+}
+console.log(cnt);
