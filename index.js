@@ -36,7 +36,13 @@
 // console.log(sum/100);
 // console.log(sum%100);
 
-var y=1
-var x=1
-y=17*x*x-6*x+13
-console.log(y);
+// var y=1
+// var x=1
+// y=17*x*x-6*x+13
+// console.log(y);
+
+var text2="The quotient of the division is : "
+var a=8
+var b=11
+console.log(text2,a/b);
+console.log(text2,a%b);
