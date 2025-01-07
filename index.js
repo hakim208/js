@@ -47,9 +47,9 @@
 // console.log(text2,a/b);
 // console.log(text2,a%b);
 
-var a=11
-var b=9
-if(a>b){console.log(b);
-}
-else {console.log(a);
-}
+//     var a=11
+//     var b=9
+//     if(a>b){console.log(b);
+//     }
+//     else {console.log(a);
+//     }
