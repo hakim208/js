@@ -10,5 +10,8 @@
 // var a = 345678;
 // console.log(a%10);
 
-var a = 22
-console.log(a/10);
+// var a = 22
+// console.log(a/10);
+
+var a = 3456
+console.log(a/10%10);
