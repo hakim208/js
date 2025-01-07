@@ -28,10 +28,15 @@
 // console.log(minute/60%24);
 // console.log(minute%60);
 
-var sum = 0
-var rub=8
-var kop=11
-var don=3
-sum=(rub*100+kop)*don
-console.log(sum/100);
-console.log(sum%100);
+// var sum = 0
+// var rub=8
+// var kop=11
+// var don=3
+// sum=(rub*100+kop)*don
+// console.log(sum/100);
+// console.log(sum%100);
+
+var y=1
+var x=1
+y=17*x*x-6*x+13
+console.log(y);
